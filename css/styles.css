@@ -19,7 +19,6 @@ main {
     height: 24px;
 }
 
-
 #to-white,
 #to-black {
     width: 15px;
@@ -41,9 +40,6 @@ main {
 #to-black {
     background: #1d1d1d;
 }
-
-
-
 
 /*Cronometro*/
 

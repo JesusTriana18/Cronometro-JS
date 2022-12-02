@@ -1,0 +1,31 @@
+body{
+    background: #fff;
+}
+
+#to-white {
+    border: 2px solid #ffff00;
+}
+.circle {
+    border: 1px solid #1d1d1d;
+    color: #1d1d1d;
+}
+
+.seconds-sphere {
+    background-color:#1d1d1d ;
+}
+
+.paused {
+    border-color: transparent transparent transparent #1d1d1d;
+}
+
+.stop {
+    background-color: #1d1d1d;
+}
+
+@media (min-width: 850px) {
+    #to-white{
+        border: 1px solid #ffff00;
+    }
+}
+
+

@@ -1,0 +1,30 @@
+body{
+    background: #1d1d1d;
+}
+
+#to-black {
+    border: 2px solid #ffff00;
+}
+
+.circle {
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.seconds-sphere {
+    background-color: #fff;
+}
+
+.paused {
+    border-color: transparent transparent transparent #fff;
+}
+
+.stop {
+    background-color: #fff;
+}
+
+@media (min-width: 850px) {
+    #to-black{
+        border: 1px solid #ffff00;
+    }
+}
